@@ -1,0 +1,21 @@
+#uhead {
+    background-color: rgb(214, 221, 149);
+    align-content: center;
+    align-self: center;
+}
+
+#board {
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(6, 136, 119);
+    align-content: center;
+    align-self: center;
+}
+
+#book {
+    position: relative;
+    height: 64px;
+    width: 64px;
+    left: 10px;
+    top: 10px
+}
